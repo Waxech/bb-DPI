@@ -1,4 +1,5 @@
 # bb-DPI
+ <img width="271" height="398" alt="Screenshot" src="https://github.com/user-attachments/assets/6ce6c05b-e7a8-42cf-956f-f001e2141639" />
 
 A modern GUI for GoodbyeDPI with a minimalist and easy-to-use UI.
 
